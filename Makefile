@@ -1,5 +1,5 @@
 REPO = https://gitlab.mpi-sws.org/iris/iris.git
-TAG = iris-3.6.0
+TAG = iris-4.0.0
 WORKDIR = workdir
 
 # Git boilerplate
